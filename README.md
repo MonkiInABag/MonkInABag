@@ -1,13 +1,46 @@
-# Hi, I'm Ethan 👋
+<h1 align="center">Hi, I'm Ethan 👋</h1>
 
-### Robotics • Embedded Systems • Electronics • Software
+<p align="center">
+  <b>Robotics • Embedded Systems • Physical AI • Electronics</b>
+</p>
 
-I'm a Robotics, Autonomous and Interactive Systems student with an interest in building real-world systems that combine **software, electronics and mechanical design**.
+<p align="center">
+  Robotics, Autonomous & Interactive Systems student building projects that combine
+  <b>software, electronics and mechanical design.</b>
+</p>
 
-I enjoy taking projects from an idea through to a working prototype — designing parts, building electronics and writing the software that brings everything together.
+---
 
-- 🤖 Interested in **Robotics, Physical AI & Autonomous Systems**
-- 🔧 Building with **ESP32, Arduino, sensors and embedded systems**
-- 🖨️ Designing and prototyping with **CAD & 3D printing**
-- 💻 Working with **C++, Python, C, Java & MATLAB**
-- 🌐 Portfolio: **e-creates.co.uk**
+```text
+ethan@MonkInABag
+────────────────────────────────────────────────────
+
+Role        Robotics & AI Systems Student
+Focus       Robotics / Embedded Systems / Physical AI
+Location    United Kingdom
+
+Languages
+├── C++
+├── Python
+├── C
+├── Java
+└── MATLAB
+
+Embedded
+├── ESP32 / ESP32-S3
+├── Arduino
+├── Sensors & Actuators
+├── MQTT
+└── Embedded Electronics
+
+Robotics
+├── ROS 2
+├── Autonomous Systems
+├── Sensor Integration
+└── Hardware / Software Integration
+
+Engineering
+├── Fusion 360 / CAD
+├── 3D Printing
+├── Electronics Prototyping
+└── Product Design
